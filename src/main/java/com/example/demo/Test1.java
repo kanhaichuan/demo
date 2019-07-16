@@ -10,6 +10,6 @@ package com.example.demo;
  */
 public class Test1 {
     public void test1(){
-        System.out.println(1);
+        System.out.println(2);
     }
 }
