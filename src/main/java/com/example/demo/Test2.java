@@ -11,5 +11,6 @@ package com.example.demo;
 public class Test2 {
     public void test1(){
         System.out.println(111);
+	System.out.println(222);
     }
 }
