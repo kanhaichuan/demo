@@ -12,4 +12,10 @@ public class Test3 {
     public void test1(){
         System.out.println(111);
     }
+    public void test2(){
+        System.out.println(222);
+    }
+    public void test3(){
+        System.out.println(333);
+    }
 }
